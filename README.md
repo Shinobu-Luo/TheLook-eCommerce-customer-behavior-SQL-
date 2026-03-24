@@ -1,4 +1,4 @@
-# TheLook-eCommerce-customer-behavior-SQL-
+# TheLook-eCommerce-customer-behavior SQL
 ## 📌 project introduce
 Exploring the thelook_ecommerce dataset on Google BigQuery to practice SQL basics: filtering data, joining tables, and deriving business insights through metric calculation
 ---
